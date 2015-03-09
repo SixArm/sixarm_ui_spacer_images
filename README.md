@@ -1,4 +1,4 @@
-# SixArm.com » UI » Spacer images as one-pixel gif files in various colors
+# UI » Spacer images as one-pixel gif files in various colors
 
   * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
   * Copyright: Copyright (c) 2006-2012 Joel Parker Henderson
